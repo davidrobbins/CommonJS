@@ -1,0 +1,1 @@
+﻿module.exports = function(announcement) {	return "Please pay attention: " + announcement;};

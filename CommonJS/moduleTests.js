@@ -1,0 +1,1 @@
+﻿//Let's test our simple Public Address module.var publicAddressSystem = require('announce.js');publicAddressSystem("The 6pm flight to Paris has been delayed.");

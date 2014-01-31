@@ -1,0 +1,33 @@
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS] INFO - Users and groups directory opened
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - Datastore opened
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - "CommonJS" project opened
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - "ServerAdmin" project opened
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS] INFO - "CommonJS" solution opened
+2014-01-31 11:18:53 [com.wakanda-software] INFO - Starts "CommonJS" solution
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - >buildInit()
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin.console] INFO - {"data":[">buildInit()"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin.console] INFO - {"data":[">buildInit() - minified core files detected - try to add package definition to storage"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - >buildInit() - added package definition to storage
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin.console] INFO - {"data":[">buildInit() - added package definition to storage"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - <buildInit()
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin.console] INFO - {"data":["<buildInit()"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - HTTP Server started
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - "ServerAdmin" project started
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - >buildInit()
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS.console] INFO - {"data":[">buildInit()"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS.console] INFO - {"data":[">buildInit() - minified core files detected - try to add package definition to storage"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - >buildInit() - added package definition to storage
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS.console] INFO - {"data":[">buildInit() - added package definition to storage"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - <buildInit()
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS.console] INFO - {"data":["<buildInit()"]}
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - HTTP Server started
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - "CommonJS" project started
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - Executes the bootstrap file(s)
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.ServerAdmin] INFO - Bootstrap file(s) executed
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - Executes the bootstrap file(s)
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS.CommonJS] INFO - Bootstrap file(s) executed
+2014-01-31 11:18:53 [com.wakanda-software.CommonJS] INFO - "CommonJS" solution started
+2014-01-31 11:18:53 [com.wakanda-software] INFO - "CommonJS" solution has been successfully opened for running (duration: 308 ms)
+2014-01-31 11:18:53 [com.wakanda-software.supervisor] INFO - solution opened
