@@ -1,1 +1,1 @@
-﻿module.exports = function(announcement) {	return "Please pay attention: " + announcement;};
+﻿var privateVar = "this var will not be exported";//By setting module.exports we are telling Wakanda that this is everything // we want to export from this module.module.exports = function(announcement) {	return "Attention please: " + announcement;};

@@ -1,0 +1,15 @@
+#Version: 1.0
+#Software: Wakanda/7 build 7.152232 (MacOS-x64)
+#Date: 2014-01-31 11:18:55
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2014-01-31 19:18:55 19:18:55 13
+44 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 19:18:55 19:18:55 14
+76 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 19:19:21 19:19:21 14
+88 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 19:51:13 19:51:13 17
+88 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 19:54:06 19:54:06 15
+72 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 20:05:24 20:05:24 14
+74 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 20:05:32 20:05:32 14
+39 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=26B5C4FEB1D44062868285F10350055E" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 22:12:39 22:12:39 15
+22 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=4047E0D94D3F4811852EF2337878AA22" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 22:12:47 22:12:47 16
+22 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=4047E0D94D3F4811852EF2337878AA22" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2014-01-31 22:14:49 22:14:49 15

@@ -1,0 +1,1 @@
+﻿exports.softly = function(message) {	return message.toLowerCase();};exports.loudly = function(message) {	return message.toUpperCase();};

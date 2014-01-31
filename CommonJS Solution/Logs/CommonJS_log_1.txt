@@ -31,3 +31,31 @@
 2014-01-31 11:18:53 [com.wakanda-software.CommonJS] INFO - "CommonJS" solution started
 2014-01-31 11:18:53 [com.wakanda-software] INFO - "CommonJS" solution has been successfully opened for running (duration: 308 ms)
 2014-01-31 11:18:53 [com.wakanda-software.supervisor] INFO - solution opened
+2014-01-31 12:51:22 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 12:51:22 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 12:51:22 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 12:51:22 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 12:51:22 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 12:51:22 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 12:51:41 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 12:51:41 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 12:51:42 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 12:51:42 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 13:21:25 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 13:21:25 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 13:25:52 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 13:25:52 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 13:25:53 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 13:25:53 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 13:47:22 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 13:47:22 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 14:58:58 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 14:58:58 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 14:59:00 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 14:59:00 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 15:03:44 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #17667
+2014-01-31 15:03:44 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #17667
+2014-01-31 15:17:28 [com.wakanda-software.CommonJS.CommonJS.JS4D] ERROR - [1] TypeError: '[object Object]' is not a function (evaluating 'publicAddressSystem("The 6pm flight to Paris has been delayed.")'), task #38403, task name is HTTP connection handler
+2014-01-31 15:17:28 [com.wakanda-software.CommonJS.CommonJS.JS4D] ERROR - [1] TypeError: '[object Object]' is not a function (evaluating 'scream("There is a fire. Get out of the building.")'), task #37891, task name is HTTP connection handler
+2014-01-31 15:17:28 [com.wakanda-software.CommonJS.CommonJS.JS4D] ERROR - [2] Error evaluating javascript file:///Users/drobbins/github/CommonJS/CommonJS/moduleTests.js, task #38403, task name is HTTP connection handler
+2014-01-31 15:17:28 [com.wakanda-software.CommonJS.CommonJS.JS4D] ERROR - [2] Error evaluating javascript file:///Users/drobbins/github/CommonJS/CommonJS/moduleTests.js, task #37891, task name is HTTP connection handler

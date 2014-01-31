@@ -1,0 +1,1 @@
+﻿exports = function(announcement) {	return "Hey everybody: " + announcement;};
